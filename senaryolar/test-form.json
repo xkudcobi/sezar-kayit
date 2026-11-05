@@ -1,0 +1,18 @@
+{
+  "ad": "test-form",
+  "gorunum": "masaustu",
+  "hazirlik": [
+    { "tur": "git", "adres": "{kok}/veri/test-sayfasi.html" }
+  ],
+  "adimlar": [
+    { "tur": "altyazi", "metin": "Yeni öğrenci eklemek birkaç saniye sürüyor", "sure": 3 },
+    { "tur": "uzerineGel", "oge": "tour=ogrenciler" },
+    { "tur": "kaydir", "oge": "#form-karti", "sure": 1.2 },
+    { "tur": "yaz", "oge": "input[name=ad]", "metin": "Ayşe Demir" },
+    { "tur": "tikla", "oge": "text=Kaydet" },
+    { "tur": "bekle", "ogeGorunene": "text=kaydedildi" },
+    { "tur": "vurgu", "oge": "#sonuc", "sure": 1.5 },
+    { "tur": "yakinlas", "oge": "#form-karti", "oran": 1.5, "sure": 1.5 },
+    { "tur": "kaydir", "piksel": -600, "sure": 1 }
+  ]
+}

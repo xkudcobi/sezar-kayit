@@ -1,0 +1,26 @@
+{
+  "name": "sezar-kayit",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "kayit": "node motor/calistir.mjs",
+    "demo": "node motor/demo.mjs",
+    "editor": "node editor/sunucu.mjs --ac",
+    "editor:sessiz": "node editor/sunucu.mjs"
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.484",
+    "@remotion/player": "4.0.484",
+    "@remotion/renderer": "4.0.484",
+    "puppeteer-core": "24.10.0",
+    "react": "19.2.7",
+    "react-dom": "19.2.7",
+    "remotion": "4.0.484"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.17",
+    "@vitejs/plugin-react": "4.5.0",
+    "vite": "6.3.5"
+  }
+}

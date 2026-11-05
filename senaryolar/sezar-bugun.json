@@ -1,0 +1,25 @@
+{
+  "ad": "sezar-bugun",
+  "gorunum": "masaustu",
+  "adres": "http://localhost:3005",
+  "not": "Demo kurum (uydurma Sezar Müzik Akademisi), saat 2 Kasım 2026 10:00. Ana ekran ve uyarılar; veri yazmaz.",
+  "gizle": [".nst", ".sezar-asistan", ".sezar-ipucu"],
+  "hazirlik": [
+    { "tur": "giris", "hesap": "demo" },
+    { "tur": "git", "adres": "/uyarilar", "bekle": "tour=uyari-akis", "not": "ısındırma: sayfa ilk açılışta derlenir" },
+    { "tur": "git", "adres": "/", "bekle": "tour=sayfa-baslik" },
+    { "tur": "duraklat", "sure": 1.5 }
+  ],
+  "adimlar": [
+    { "tur": "altyazi", "metin": "Sabah açtığınızda günün özeti hazır", "sure": 3 },
+    { "tur": "duraklat", "sure": 2 },
+    { "tur": "kaydir", "piksel": 500, "sure": 1.4 },
+    { "tur": "duraklat", "sure": 1.2 },
+    { "tur": "kaydir", "piksel": -500, "sure": 1.2 },
+    { "tur": "altyazi", "metin": "Dikkat isteyen her şey Uyarılar'da", "sure": 3 },
+    { "tur": "tikla", "oge": "a[href=\"/uyarilar\"]" },
+    { "tur": "bekle", "ogeGorunene": "tour=uyari-akis" },
+    { "tur": "vurgu", "oge": "tour=uyari-sekmeler", "sure": 1.5 },
+    { "tur": "duraklat", "sure": 1.5 }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "editor", "runtimeExecutable": "node", "runtimeArgs": ["editor/sunucu.mjs"], "port": 4600 }
+  ]
+}

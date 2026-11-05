@@ -1,0 +1,21 @@
+{
+  "ad": "site-tanitim",
+  "gorunum": "masaustu",
+  "not": "Herkese açık sezars.com üzerinde; veri yazmaz.",
+  "hazirlik": [
+    { "tur": "git", "adres": "https://sezars.com", "bekle": "text=Ücretsiz başla" },
+    { "tur": "duraklat", "sure": 1 }
+  ],
+  "adimlar": [
+    { "tur": "altyazi", "metin": "Sezar: kurumunuzun tüm işleri tek yerde", "sure": 3 },
+    { "tur": "duraklat", "sure": 1.5 },
+    { "tur": "uzerineGel", "oge": "text=Sektörler" },
+    { "tur": "kaydir", "piksel": 700, "sure": 1.6 },
+    { "tur": "duraklat", "sure": 1 },
+    { "tur": "kaydir", "piksel": 700, "sure": 1.6 },
+    { "tur": "duraklat", "sure": 1 },
+    { "tur": "kaydir", "piksel": -1400, "sure": 1.4 },
+    { "tur": "vurgu", "oge": "text=Fiyatlar", "sure": 1.2 },
+    { "tur": "tikla", "oge": "text=Fiyatlar", "sonra": 1.5 }
+  ]
+}

@@ -1,0 +1,9 @@
+node_modules/
+kayitlar/
+cikti/
+veri/hesaplar.json
+.kareler/
+veri/.durum.json
+veri/.sunucu.log
+muzik/*
+!muzik/.gitkeep

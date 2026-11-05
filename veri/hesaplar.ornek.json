@@ -1,0 +1,8 @@
+{
+  "demo": {
+    "adres": "http://localhost:3005",
+    "eposta": "demo-hesap-epostasi",
+    "parola": "demo-hesap-parolasi",
+    "kurum": "Sezar Müzik Akademisi"
+  }
+}

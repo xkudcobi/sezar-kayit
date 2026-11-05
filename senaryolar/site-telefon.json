@@ -1,0 +1,18 @@
+{
+  "ad": "site-telefon",
+  "gorunum": "telefon",
+  "not": "Herkese açık sezars.com, telefon görünümü; veri yazmaz.",
+  "hazirlik": [
+    { "tur": "git", "adres": "https://sezars.com" },
+    { "tur": "duraklat", "sure": 1 }
+  ],
+  "adimlar": [
+    { "tur": "altyazi", "metin": "Telefondan da rahat", "sure": 2.5 },
+    { "tur": "duraklat", "sure": 1.2 },
+    { "tur": "kaydir", "piksel": 600, "sure": 1.4 },
+    { "tur": "duraklat", "sure": 0.8 },
+    { "tur": "kaydir", "piksel": 600, "sure": 1.4 },
+    { "tur": "duraklat", "sure": 0.8 },
+    { "tur": "kaydir", "piksel": -1200, "sure": 1.2 }
+  ]
+}

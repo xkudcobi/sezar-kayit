@@ -1,0 +1,8 @@
+{
+  "not": "Video çekimi için ayrı Sezar demo sunucusu. Sezar'ın ayrı kopyası (git worktree) C:/dev/sezar-video'dan çalışır; ana kopyaya ve 3000'deki sunucuya dokunulmaz. Temiz yedek yalnız okunur.",
+  "sezarWeb": "C:/dev/sezar-video/apps/web",
+  "veri": "C:/dev/sezar-video-veri/pglite-video",
+  "temizYedek": "C:/dev/sezar/apps/web/.data/pglite-yedek-video-2026-11-02",
+  "port": 3005,
+  "saat": "2026-11-02T10:00:00+03:00"
+}
