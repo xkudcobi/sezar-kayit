@@ -343,6 +343,7 @@ muzik/          müzik dosyalarınız (git'e girmez)
 
 ## Lisans ve bağımlılıklar
 
-- Bu depoya henüz bir açık kaynak lisansı eklenmedi; kodu kullanmak ya da dağıtmak isterseniz önce iletişime geçin.
+- Bu deponun kodu [MIT lisansıyla](LICENSE) açıktır: kullanabilir, değiştirebilir, dağıtabilirsiniz; telif notunu korumanız yeterli.
+- Sezar adı, logosu (kartlardaki işaret) ve renkleri Sezar markasına aittir; kendi videolarınızda kendi markanızı kullanın.
 - Editör [Remotion](https://www.remotion.dev) kullanır. Remotion bireyler ve en çok 3 çalışanlı şirketler için ücretsizdir; daha büyük ekipler için [şirket lisansı](https://www.remotion.dev/license) gerekir.
 - Diğer bağımlılıklar: [puppeteer-core](https://github.com/puppeteer/puppeteer) (Apache-2.0), [Vite](https://vitejs.dev) (MIT), [React](https://react.dev) (MIT), ffmpeg (sistemde kurulu).

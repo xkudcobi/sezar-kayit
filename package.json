@@ -1,6 +1,12 @@
 {
   "name": "sezar-kayit",
   "version": "0.1.0",
+  "description": "Senaryodan ekran videosu: kayıt motoru ve Remotion tabanlı editör",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xkudcobi/sezar-kayit.git"
+  },
   "private": true,
   "type": "module",
   "scripts": {
